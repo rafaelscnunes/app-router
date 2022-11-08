@@ -7,3 +7,6 @@ Divulga um conjunto de dados de pedidos de patentes construído a partir de dado
 
 -   **datasets:** contém as duas principais versões do dataset INPI-BR (v1 e v5);
 -   **notebooks:** contém todos os Jupyter Notebooks construídos durante a pesquisa;
+
+## ToDO
+1. importar da pasta `app-router_old` os código-fonte dos experimentos e suas dependências
